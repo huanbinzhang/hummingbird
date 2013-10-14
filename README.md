@@ -1,4 +1,0 @@
-hummingbird
-===========
-
-A diligent bird.
